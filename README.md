@@ -1,4 +1,4 @@
-## Programming II
+## Dynamic Functional Programming (Pointers)
 Exercises that I have done on my second semestar.
 
 ### Curriculum:
